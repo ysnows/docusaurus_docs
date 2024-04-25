@@ -77,7 +77,10 @@
           "description": "The model used to generate embedding",
           "type": "extension",
           "required": false,
-          "default": "default",
+          "default": "enconvo_ai",
+          "defaultOptions": {
+            "modelName": "embed-multilingual-v3.0"
+          },
           "title": "Embedding Model"
         },
         {
