@@ -1,5 +1,6 @@
-# AI Template
+# Docusaurus
 
 ## What is this?
 
-You can use Langchain J S/ T S or other Node.js libraries to implement an AI plugin.
+
+This is a knowledge base for [Docusaurus](https://docusaurus.io/docs), you can chat with the bot and ask questions about [Docusaurus](https://docusaurus.io/docs). 
